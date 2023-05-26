@@ -1,0 +1,26 @@
+{
+  "name": "blackfury",
+  "version": "2.0.2",
+  "description": "Blackfury, the Cosmos/EVM Hybrid Blockchain",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackfurystation/blackfury.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackfurystation/blackfury/issues"
+  },
+  "homepage": "https://github.com/blackfurystation/blackfury#readme"
+}
