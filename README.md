@@ -12,28 +12,28 @@ parent:
 <!-- ![banner](docs/ethermint.jpg) -->
 
 <div align="center">
-  <a href="https://github.com/blackfurystation/blackfury/releases/latest">
-    <img alt="Version" src="https://img.shields.io/github/tag/blackfurystation/blackfury.svg" />
+  <a href="https://github.com/furyanrasta/blackfury/releases/latest">
+    <img alt="Version" src="https://img.shields.io/github/tag/furyanrasta/blackfury.svg" />
   </a>
-  <a href="https://github.com/blackfurystation/blackfury/blob/main/LICENSE">
-    <img alt="License: Apache-2.0" src="https://img.shields.io/github/license/blackfurystation/blackfury.svg" />
+  <a href="https://github.com/furyanrasta/blackfury/blob/main/LICENSE">
+    <img alt="License: Apache-2.0" src="https://img.shields.io/github/license/furyanrasta/blackfury.svg" />
   </a>
-  <a href="https://pkg.go.dev/github.com/blackfurystation/blackfury">
-    <img alt="GoDoc" src="https://godoc.org/github.com/blackfurystation/blackfury?status.svg" />
+  <a href="https://pkg.go.dev/github.com/furyanrasta/blackfury">
+    <img alt="GoDoc" src="https://godoc.org/github.com/furyanrasta/blackfury?status.svg" />
   </a>
-  <a href="https://goreportcard.com/report/github.com/blackfurystation/blackfury">
-    <img alt="Go report card" src="https://goreportcard.com/badge/github.com/blackfurystation/blackfury"/>
+  <a href="https://goreportcard.com/report/github.com/furyanrasta/blackfury">
+    <img alt="Go report card" src="https://goreportcard.com/badge/github.com/furyanrasta/blackfury"/>
   </a>
 </div>
 <div align="center">
   <a href="https://discord.gg/ArXNfK99ae">
     <img alt="Discord" src="https://img.shields.io/discord/962917488180490250.svg" />
   </a>
-  <a href="https://github.com/blackfurystation/blackfury/actions?query=branch%3Amain+workflow%3ALint">
-    <img alt="Lint Status" src="https://github.com/blackfurystation/blackfury/actions/workflows/lint.yml/badge.svg?branch=main" />
+  <a href="https://github.com/furyanrasta/blackfury/actions?query=branch%3Amain+workflow%3ALint">
+    <img alt="Lint Status" src="https://github.com/furyanrasta/blackfury/actions/workflows/lint.yml/badge.svg?branch=main" />
   </a>
-  <a href="https://codecov.io/gh/blackfurystation/blackfury">
-    <img alt="Code Coverage" src="https://codecov.io/gh/blackfurystation/blackfury/branch/main/graph/badge.svg" />
+  <a href="https://codecov.io/gh/furyanrasta/blackfury">
+    <img alt="Code Coverage" src="https://codecov.io/gh/furyanrasta/blackfury/branch/main/graph/badge.svg" />
   </a>
   <a href="https://twitter.com/BlackfuryFDN">
     <img alt="Twitter Follow Blackfury" src="https://img.shields.io/twitter/follow/BlackfuryFDN"/>
@@ -53,12 +53,12 @@ For prerequisites and detailed build instructions please read the [Installation]
 make install
 ```
 
-Or check out the latest [release](https://github.com/blackfurystation/blackfury/releases).
+Or check out the latest [release](https://github.com/furyanrasta/blackfury/releases).
 
 ## Genesis
 To get onto our mainnet (blackfury_3000-3) genesis download the genesis.json here
 
-`wget https://gist.githubusercontent.com/blackfurystation/ee862f58850fc1b5ee6a6fdccc3130d2/raw/55c2c4ea2fee8a9391d0dc55b2c272adb804054a/genesis.json`
+`wget https://gist.githubusercontent.com/furyanrasta/ee862f58850fc1b5ee6a6fdccc3130d2/raw/55c2c4ea2fee8a9391d0dc55b2c272adb804054a/genesis.json`
 
 and then move it into the blackfuryd config (after you have initilized your node)
 
@@ -82,7 +82,7 @@ The following chat channels and forums are a great spot to ask questions about B
 
 ## Contributing
 
-Looking for a good place to start contributing? Check out some [`good first issues`](https://github.com/blackfurystation/blackfury/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22).
+Looking for a good place to start contributing? Check out some [`good first issues`](https://github.com/furyanrasta/blackfury/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22).
 
 Original codebase forked from [EVMOS](https://github.com/evmos/evmos)
 

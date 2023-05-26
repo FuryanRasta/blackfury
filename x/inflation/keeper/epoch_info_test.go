@@ -3,7 +3,7 @@ package keeper_test
 import (
 	"fmt"
 
-	"github.com/blackfurystation/blackfury/v3/x/inflation/types"
+	"github.com/furyanrasta/blackfury/v3/x/inflation/types"
 )
 
 func (suite *KeeperTestSuite) TestSetGetEpochIdentifier() {

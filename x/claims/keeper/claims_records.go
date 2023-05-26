@@ -4,7 +4,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/store/prefix"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/blackfurystation/blackfury/v3/x/claims/types"
+	"github.com/furyanrasta/blackfury/v3/x/claims/types"
 )
 
 // GetClaimsRecord returns the claims record for a specific address

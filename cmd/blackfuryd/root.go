@@ -39,9 +39,9 @@ import (
 	servercfg "github.com/tharsis/ethermint/server/config"
 	srvflags "github.com/tharsis/ethermint/server/flags"
 
-	"github.com/blackfurystation/blackfury/v3/app"
-	cmdcfg "github.com/blackfurystation/blackfury/v3/cmd/config"
-	blackfurykr "github.com/blackfurystation/blackfury/v3/crypto/keyring"
+	"github.com/furyanrasta/blackfury/v3/app"
+	cmdcfg "github.com/furyanrasta/blackfury/v3/cmd/config"
+	blackfurykr "github.com/furyanrasta/blackfury/v3/crypto/keyring"
 )
 
 const (

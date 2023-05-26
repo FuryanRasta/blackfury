@@ -7,7 +7,7 @@ import (
 
 	"github.com/tendermint/tendermint/libs/log"
 
-	"github.com/blackfurystation/blackfury/v3/x/inflation/types"
+	"github.com/furyanrasta/blackfury/v3/x/inflation/types"
 )
 
 // Keeper of the inflation store

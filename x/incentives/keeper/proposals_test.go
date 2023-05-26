@@ -6,7 +6,7 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
 	"github.com/tharsis/ethermint/tests"
-	"github.com/blackfurystation/blackfury/v3/x/incentives/types"
+	"github.com/furyanrasta/blackfury/v3/x/incentives/types"
 )
 
 func (suite KeeperTestSuite) TestRegisterIncentive() {

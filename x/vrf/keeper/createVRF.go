@@ -6,7 +6,7 @@ import (
 	"github.com/coniks-sys/coniks-go/crypto/vrf"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
-	"github.com/blackfurystation/blackfury/v3/x/vrf/types"
+	"github.com/furyanrasta/blackfury/v3/x/vrf/types"
 	"strconv"
 )
 

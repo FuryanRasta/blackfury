@@ -8,10 +8,10 @@ import (
 	channeltypes "github.com/cosmos/ibc-go/v3/modules/core/04-channel/types"
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
-	"github.com/blackfurystation/blackfury/v3/app"
-	"github.com/blackfurystation/blackfury/v3/testutil"
-	claimtypes "github.com/blackfurystation/blackfury/v3/x/claims/types"
-	"github.com/blackfurystation/blackfury/v3/x/recovery/types"
+	"github.com/furyanrasta/blackfury/v3/app"
+	"github.com/furyanrasta/blackfury/v3/testutil"
+	claimtypes "github.com/furyanrasta/blackfury/v3/x/claims/types"
+	"github.com/furyanrasta/blackfury/v3/x/recovery/types"
 )
 
 var _ = Describe("Recovery: Performing an IBC Transfer", Ordered, func() {

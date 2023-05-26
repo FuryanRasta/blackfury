@@ -2,8 +2,8 @@ package inflation
 
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/blackfurystation/blackfury/v3/x/inflation/keeper"
-	"github.com/blackfurystation/blackfury/v3/x/inflation/types"
+	"github.com/furyanrasta/blackfury/v3/x/inflation/keeper"
+	"github.com/furyanrasta/blackfury/v3/x/inflation/types"
 )
 
 // InitGenesis import module genesis

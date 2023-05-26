@@ -9,7 +9,7 @@ import (
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 
-	"github.com/blackfurystation/blackfury/v3/x/claims/types"
+	"github.com/furyanrasta/blackfury/v3/x/claims/types"
 )
 
 var _ types.QueryServer = Keeper{}

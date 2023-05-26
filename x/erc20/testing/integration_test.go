@@ -15,8 +15,8 @@ import (
 
 	"github.com/tharsis/ethermint/server/config"
 
-	"github.com/blackfurystation/blackfury/v3/testutil/network"
-	"github.com/blackfurystation/blackfury/v3/x/erc20/types"
+	"github.com/furyanrasta/blackfury/v3/testutil/network"
+	"github.com/furyanrasta/blackfury/v3/x/erc20/types"
 )
 
 // var _ = Describe("E2e", func() {

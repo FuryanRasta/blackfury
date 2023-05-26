@@ -8,8 +8,8 @@ import (
 	authtypes "github.com/cosmos/cosmos-sdk/x/auth/types"
 	ethtypes "github.com/ethereum/go-ethereum/core/types"
 	"github.com/tharsis/ethermint/tests"
-	"github.com/blackfurystation/blackfury/v3/x/claims/types"
-	inflationtypes "github.com/blackfurystation/blackfury/v3/x/inflation/types"
+	"github.com/furyanrasta/blackfury/v3/x/claims/types"
+	inflationtypes "github.com/furyanrasta/blackfury/v3/x/inflation/types"
 )
 
 func (suite *KeeperTestSuite) TestAfterProposalVote() {

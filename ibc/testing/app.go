@@ -21,7 +21,7 @@ import (
 	"github.com/cosmos/ibc-go/v3/testing/simapp"
 
 	ethermint "github.com/tharsis/ethermint/types"
-	blackfuryapp "github.com/blackfurystation/blackfury/v3/app"
+	blackfuryapp "github.com/furyanrasta/blackfury/v3/app"
 )
 
 var DefaultTestingAppInit func() (ibcgotesting.TestingApp, map[string]json.RawMessage) = blackfuryapp.SetupTestingApp

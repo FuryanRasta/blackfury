@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/blackfurystation/blackfury/v3/x/epochs"
-	"github.com/blackfurystation/blackfury/v3/x/epochs/types"
+	"github.com/furyanrasta/blackfury/v3/x/epochs"
+	"github.com/furyanrasta/blackfury/v3/x/epochs/types"
 )
 
 func (suite *KeeperTestSuite) TestEpochInfoChangesBeginBlockerAndInitGenesis() {

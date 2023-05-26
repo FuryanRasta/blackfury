@@ -5,8 +5,8 @@ import (
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	authtypes "github.com/cosmos/cosmos-sdk/x/auth/types"
-	incentivestypes "github.com/blackfurystation/blackfury/v3/x/incentives/types"
-	"github.com/blackfurystation/blackfury/v3/x/inflation/types"
+	incentivestypes "github.com/furyanrasta/blackfury/v3/x/incentives/types"
+	"github.com/furyanrasta/blackfury/v3/x/inflation/types"
 )
 
 func (suite *KeeperTestSuite) TestMintAndAllocateInflation() {

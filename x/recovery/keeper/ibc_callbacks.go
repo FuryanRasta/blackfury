@@ -14,9 +14,9 @@ import (
 	host "github.com/cosmos/ibc-go/v3/modules/core/24-host"
 	"github.com/cosmos/ibc-go/v3/modules/core/exported"
 
-	"github.com/blackfurystation/blackfury/v3/ibc"
-	blackfury "github.com/blackfurystation/blackfury/v3/types"
-	"github.com/blackfurystation/blackfury/v3/x/recovery/types"
+	"github.com/furyanrasta/blackfury/v3/ibc"
+	blackfury "github.com/furyanrasta/blackfury/v3/types"
+	"github.com/furyanrasta/blackfury/v3/x/recovery/types"
 )
 
 // OnRecvPacket performs an IBC receive callback. It returns the tokens that

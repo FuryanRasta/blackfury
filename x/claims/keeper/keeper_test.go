@@ -26,8 +26,8 @@ import (
 	tmversion "github.com/tendermint/tendermint/proto/tendermint/version"
 	"github.com/tendermint/tendermint/version"
 	evm "github.com/tharsis/ethermint/x/evm/types"
-	"github.com/blackfurystation/blackfury/v3/app"
-	"github.com/blackfurystation/blackfury/v3/x/claims/types"
+	"github.com/furyanrasta/blackfury/v3/app"
+	"github.com/furyanrasta/blackfury/v3/x/claims/types"
 )
 
 type KeeperTestSuite struct {

@@ -9,8 +9,8 @@ import (
 	"github.com/cosmos/cosmos-sdk/x/genutil/client/cli"
 	"github.com/stretchr/testify/require"
 
-	"github.com/blackfurystation/blackfury/v3/app"
-	blackfuryd "github.com/blackfurystation/blackfury/v3/cmd/blackfuryd"
+	"github.com/furyanrasta/blackfury/v3/app"
+	blackfuryd "github.com/furyanrasta/blackfury/v3/cmd/blackfuryd"
 )
 
 func TestInitCmd(t *testing.T) {

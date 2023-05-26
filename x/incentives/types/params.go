@@ -8,7 +8,7 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	paramtypes "github.com/cosmos/cosmos-sdk/x/params/types"
 
-	epochtypes "github.com/blackfurystation/blackfury/v3/x/epochs/types"
+	epochtypes "github.com/furyanrasta/blackfury/v3/x/epochs/types"
 )
 
 // Parameter store key

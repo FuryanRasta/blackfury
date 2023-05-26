@@ -7,7 +7,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/types/query"
 	"github.com/tharsis/ethermint/tests"
 
-	"github.com/blackfurystation/blackfury/v3/x/erc20/types"
+	"github.com/furyanrasta/blackfury/v3/x/erc20/types"
 )
 
 func (suite *KeeperTestSuite) TestTokenPairs() {

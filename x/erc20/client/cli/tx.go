@@ -17,7 +17,7 @@ import (
 
 	ethermint "github.com/tharsis/ethermint/types"
 
-	"github.com/blackfurystation/blackfury/v3/x/erc20/types"
+	"github.com/furyanrasta/blackfury/v3/x/erc20/types"
 )
 
 // NewTxCmd returns a root CLI command handler for certain modules/erc20 transaction commands.

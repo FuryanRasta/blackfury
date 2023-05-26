@@ -7,7 +7,7 @@ import (
 	transfertypes "github.com/cosmos/ibc-go/v3/modules/apps/transfer/types"
 	channeltypes "github.com/cosmos/ibc-go/v3/modules/core/04-channel/types"
 
-	blackfury "github.com/blackfurystation/blackfury/v3/types"
+	blackfury "github.com/furyanrasta/blackfury/v3/types"
 )
 
 // GetTransferSenderRecipient returns the sender and recipient sdk.AccAddresses

@@ -18,9 +18,9 @@ import (
 	bankkeeper "github.com/cosmos/cosmos-sdk/x/bank/keeper"
 	stakingkeeper "github.com/cosmos/cosmos-sdk/x/staking/keeper"
 
-	"github.com/blackfurystation/blackfury/v3/x/vesting/client/cli"
-	"github.com/blackfurystation/blackfury/v3/x/vesting/keeper"
-	"github.com/blackfurystation/blackfury/v3/x/vesting/types"
+	"github.com/furyanrasta/blackfury/v3/x/vesting/client/cli"
+	"github.com/furyanrasta/blackfury/v3/x/vesting/keeper"
+	"github.com/furyanrasta/blackfury/v3/x/vesting/types"
 )
 
 var (

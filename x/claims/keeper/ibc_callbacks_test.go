@@ -18,10 +18,10 @@ import (
 	ibcmock "github.com/cosmos/ibc-go/v3/testing/mock"
 
 	"github.com/tharsis/ethermint/tests"
-	"github.com/blackfurystation/blackfury/v3/app"
-	ibctesting "github.com/blackfurystation/blackfury/v3/ibc/testing"
-	"github.com/blackfurystation/blackfury/v3/testutil"
-	"github.com/blackfurystation/blackfury/v3/x/claims/types"
+	"github.com/furyanrasta/blackfury/v3/app"
+	ibctesting "github.com/furyanrasta/blackfury/v3/ibc/testing"
+	"github.com/furyanrasta/blackfury/v3/testutil"
+	"github.com/furyanrasta/blackfury/v3/x/claims/types"
 )
 
 type IBCTestingSuite struct {

@@ -14,7 +14,7 @@ import (
 	ethante "github.com/tharsis/ethermint/app/ante"
 	evmtypes "github.com/tharsis/ethermint/x/evm/types"
 
-	vestingtypes "github.com/blackfurystation/blackfury/v3/x/vesting/types"
+	vestingtypes "github.com/furyanrasta/blackfury/v3/x/vesting/types"
 )
 
 // HandlerOptions defines the list of module keepers required to run the Blackfury

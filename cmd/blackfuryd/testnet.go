@@ -43,9 +43,9 @@ import (
 	ethermint "github.com/tharsis/ethermint/types"
 	evmtypes "github.com/tharsis/ethermint/x/evm/types"
 
-	cmdcfg "github.com/blackfurystation/blackfury/v3/cmd/config"
-	blackfurykr "github.com/blackfurystation/blackfury/v3/crypto/keyring"
-	"github.com/blackfurystation/blackfury/v3/testutil/network"
+	cmdcfg "github.com/furyanrasta/blackfury/v3/cmd/config"
+	blackfurykr "github.com/furyanrasta/blackfury/v3/crypto/keyring"
+	"github.com/furyanrasta/blackfury/v3/testutil/network"
 )
 
 var (

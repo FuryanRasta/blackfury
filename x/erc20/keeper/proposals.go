@@ -9,8 +9,8 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 
-	"github.com/blackfurystation/blackfury/v3/contracts"
-	"github.com/blackfurystation/blackfury/v3/x/erc20/types"
+	"github.com/furyanrasta/blackfury/v3/contracts"
+	"github.com/furyanrasta/blackfury/v3/x/erc20/types"
 )
 
 // RegisterCoin deploys an erc20 contract and creates the token pair for the existing cosmos coin

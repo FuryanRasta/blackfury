@@ -5,9 +5,9 @@ import (
 	"testing"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	keepertest "github.com/blackfurystation/blackfury/v3/testutil/keeper"
-	"github.com/blackfurystation/blackfury/v3/x/vrf/keeper"
-	"github.com/blackfurystation/blackfury/v3/x/vrf/types"
+	keepertest "github.com/furyanrasta/blackfury/v3/testutil/keeper"
+	"github.com/furyanrasta/blackfury/v3/x/vrf/keeper"
+	"github.com/furyanrasta/blackfury/v3/x/vrf/types"
 	"github.com/stretchr/testify/require"
 )
 

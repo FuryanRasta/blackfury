@@ -41,9 +41,9 @@ import (
 	evm "github.com/tharsis/ethermint/x/evm/types"
 	feemarkettypes "github.com/tharsis/ethermint/x/feemarket/types"
 
-	"github.com/blackfurystation/blackfury/v3/app"
-	"github.com/blackfurystation/blackfury/v3/contracts"
-	"github.com/blackfurystation/blackfury/v3/x/erc20/types"
+	"github.com/furyanrasta/blackfury/v3/app"
+	"github.com/furyanrasta/blackfury/v3/contracts"
+	"github.com/furyanrasta/blackfury/v3/x/erc20/types"
 )
 
 type KeeperTestSuite struct {

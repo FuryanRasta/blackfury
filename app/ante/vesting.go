@@ -8,7 +8,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/x/authz"
 	stakingtypes "github.com/cosmos/cosmos-sdk/x/staking/types"
 	evmtypes "github.com/tharsis/ethermint/x/evm/types"
-	vestingtypes "github.com/blackfurystation/blackfury/v3/x/vesting/types"
+	vestingtypes "github.com/furyanrasta/blackfury/v3/x/vesting/types"
 )
 
 // EthVestingTransactionDecorator validates if clawback vesting accounts are

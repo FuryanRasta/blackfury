@@ -2,8 +2,8 @@ package vrf
 
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/blackfurystation/blackfury/v3/x/vrf/keeper"
-	"github.com/blackfurystation/blackfury/v3/x/vrf/types"
+	"github.com/furyanrasta/blackfury/v3/x/vrf/keeper"
+	"github.com/furyanrasta/blackfury/v3/x/vrf/types"
 )
 
 // InitGenesis initializes the capability module's state from a provided genesis

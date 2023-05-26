@@ -24,10 +24,10 @@ import (
 	ethermint "github.com/tharsis/ethermint/types"
 	evmtypes "github.com/tharsis/ethermint/x/evm/types"
 
-	blackfurykr "github.com/blackfurystation/blackfury/v3/crypto/keyring"
+	blackfurykr "github.com/furyanrasta/blackfury/v3/crypto/keyring"
 
-	vestingcli "github.com/blackfurystation/blackfury/v3/x/vesting/client/cli"
-	vestingtypes "github.com/blackfurystation/blackfury/v3/x/vesting/types"
+	vestingcli "github.com/furyanrasta/blackfury/v3/x/vesting/client/cli"
+	vestingtypes "github.com/furyanrasta/blackfury/v3/x/vesting/types"
 )
 
 const (

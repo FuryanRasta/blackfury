@@ -3,7 +3,7 @@ package keeper_test
 import (
 	"time"
 
-	"github.com/blackfurystation/blackfury/v3/x/epochs/types"
+	"github.com/furyanrasta/blackfury/v3/x/epochs/types"
 )
 
 func (suite *KeeperTestSuite) TestEpochLifeCycle() {

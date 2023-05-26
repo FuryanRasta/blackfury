@@ -12,9 +12,9 @@ import (
 
 	"github.com/tharsis/ethermint/encoding"
 
-	"github.com/blackfurystation/blackfury/v3/app"
-	v2 "github.com/blackfurystation/blackfury/v3/x/erc20/migrations/v2"
-	erc20types "github.com/blackfurystation/blackfury/v3/x/erc20/types"
+	"github.com/furyanrasta/blackfury/v3/app"
+	v2 "github.com/furyanrasta/blackfury/v3/x/erc20/migrations/v2"
+	erc20types "github.com/furyanrasta/blackfury/v3/x/erc20/types"
 )
 
 func TestUpdateParams(t *testing.T) {

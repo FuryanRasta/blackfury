@@ -11,8 +11,8 @@ import (
 	ethtypes "github.com/ethereum/go-ethereum/core/types"
 	evmtypes "github.com/tharsis/ethermint/x/evm/types"
 
-	"github.com/blackfurystation/blackfury/v3/contracts"
-	"github.com/blackfurystation/blackfury/v3/x/erc20/types"
+	"github.com/furyanrasta/blackfury/v3/contracts"
+	"github.com/furyanrasta/blackfury/v3/x/erc20/types"
 )
 
 // Hooks wrapper struct for erc20 keeper

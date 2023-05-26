@@ -10,8 +10,8 @@ import (
 
 	"github.com/tharsis/ethermint/tests"
 
-	"github.com/blackfurystation/blackfury/v3/x/erc20/types"
-	inflationtypes "github.com/blackfurystation/blackfury/v3/x/inflation/types"
+	"github.com/furyanrasta/blackfury/v3/x/erc20/types"
+	inflationtypes "github.com/furyanrasta/blackfury/v3/x/inflation/types"
 )
 
 const (

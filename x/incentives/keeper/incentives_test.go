@@ -5,7 +5,7 @@ import (
 
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/blackfurystation/blackfury/v3/x/incentives/types"
+	"github.com/furyanrasta/blackfury/v3/x/incentives/types"
 )
 
 func (suite *KeeperTestSuite) TestGetAllIncentives() {

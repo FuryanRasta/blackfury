@@ -23,10 +23,10 @@ import (
 	"github.com/tharsis/ethermint/encoding"
 	"github.com/tharsis/ethermint/tests"
 	evmtypes "github.com/tharsis/ethermint/x/evm/types"
-	"github.com/blackfurystation/blackfury/v3/app"
-	"github.com/blackfurystation/blackfury/v3/testutil"
-	incentivestypes "github.com/blackfurystation/blackfury/v3/x/incentives/types"
-	inflationtypes "github.com/blackfurystation/blackfury/v3/x/inflation/types"
+	"github.com/furyanrasta/blackfury/v3/app"
+	"github.com/furyanrasta/blackfury/v3/testutil"
+	incentivestypes "github.com/furyanrasta/blackfury/v3/x/incentives/types"
+	inflationtypes "github.com/furyanrasta/blackfury/v3/x/inflation/types"
 
 	codectypes "github.com/cosmos/cosmos-sdk/codec/types"
 	authsigning "github.com/cosmos/cosmos-sdk/x/auth/signing"
@@ -35,8 +35,8 @@ import (
 	abci "github.com/tendermint/tendermint/abci/types"
 	"github.com/tharsis/ethermint/server/config"
 	evm "github.com/tharsis/ethermint/x/evm/types"
-	"github.com/blackfurystation/blackfury/v3/contracts"
-	"github.com/blackfurystation/blackfury/v3/x/claims/types"
+	"github.com/furyanrasta/blackfury/v3/contracts"
+	"github.com/furyanrasta/blackfury/v3/x/claims/types"
 )
 
 var _ = Describe("Claiming", Ordered, func() {

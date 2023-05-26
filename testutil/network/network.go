@@ -48,7 +48,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/x/genutil"
 	stakingtypes "github.com/cosmos/cosmos-sdk/x/staking/types"
 	"github.com/tharsis/ethermint/crypto/hd"
-	"github.com/blackfurystation/blackfury/v3/app"
+	"github.com/furyanrasta/blackfury/v3/app"
 
 	"github.com/tharsis/ethermint/encoding"
 	"github.com/tharsis/ethermint/server/config"

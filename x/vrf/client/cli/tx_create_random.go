@@ -8,7 +8,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/client"
 	"github.com/cosmos/cosmos-sdk/client/flags"
 	"github.com/cosmos/cosmos-sdk/client/tx"
-	"github.com/blackfurystation/blackfury/v3/x/vrf/types"
+	"github.com/furyanrasta/blackfury/v3/x/vrf/types"
 )
 
 var _ = strconv.Itoa(0)

@@ -5,8 +5,8 @@ import (
 	"github.com/cosmos/cosmos-sdk/types/module"
 	upgradetypes "github.com/cosmos/cosmos-sdk/x/upgrade/types"
 
-	vrftypes "github.com/blackfurystation/blackfury/v3/x/vrf/types"
-	// erc20types "github.com/blackfurystation/blackfury/v3/x/erc20/types"
+	vrftypes "github.com/furyanrasta/blackfury/v3/x/vrf/types"
+	// erc20types "github.com/furyanrasta/blackfury/v3/x/erc20/types"
 )
 
 // CreateUpgradeHandler creates an SDK upgrade handler for v2

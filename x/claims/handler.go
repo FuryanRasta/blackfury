@@ -6,8 +6,8 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
 
-	"github.com/blackfurystation/blackfury/v3/x/claims/keeper"
-	"github.com/blackfurystation/blackfury/v3/x/claims/types"
+	"github.com/furyanrasta/blackfury/v3/x/claims/keeper"
+	"github.com/furyanrasta/blackfury/v3/x/claims/types"
 )
 
 // NewHandler returns claim module messages

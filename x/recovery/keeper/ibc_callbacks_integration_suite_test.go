@@ -15,13 +15,13 @@ import (
 	channeltypes "github.com/cosmos/ibc-go/v3/modules/core/04-channel/types"
 	ibcgotesting "github.com/cosmos/ibc-go/v3/testing"
 
-	ibctesting "github.com/blackfurystation/blackfury/v3/ibc/testing"
+	ibctesting "github.com/furyanrasta/blackfury/v3/ibc/testing"
 
 	minttypes "github.com/cosmos/cosmos-sdk/x/mint/types"
-	"github.com/blackfurystation/blackfury/v3/app"
-	claimtypes "github.com/blackfurystation/blackfury/v3/x/claims/types"
-	inflationtypes "github.com/blackfurystation/blackfury/v3/x/inflation/types"
-	"github.com/blackfurystation/blackfury/v3/x/recovery/types"
+	"github.com/furyanrasta/blackfury/v3/app"
+	claimtypes "github.com/furyanrasta/blackfury/v3/x/claims/types"
+	inflationtypes "github.com/furyanrasta/blackfury/v3/x/inflation/types"
+	"github.com/furyanrasta/blackfury/v3/x/recovery/types"
 )
 
 type IBCTestingSuite struct {

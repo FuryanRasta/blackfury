@@ -8,7 +8,7 @@ import (
 	paramtypes "github.com/cosmos/cosmos-sdk/x/params/types"
 	"github.com/tendermint/tendermint/libs/log"
 
-	"github.com/blackfurystation/blackfury/v3/x/incentives/types"
+	"github.com/furyanrasta/blackfury/v3/x/incentives/types"
 )
 
 // Keeper of this module maintains collections of incentives.

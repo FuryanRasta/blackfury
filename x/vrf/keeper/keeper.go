@@ -7,7 +7,7 @@ import (
 
 	"github.com/cosmos/cosmos-sdk/codec"
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/blackfurystation/blackfury/v3/x/vrf/types"
+	"github.com/furyanrasta/blackfury/v3/x/vrf/types"
 )
 
 type (

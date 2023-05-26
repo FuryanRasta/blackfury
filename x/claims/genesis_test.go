@@ -15,10 +15,10 @@ import (
 	"github.com/tharsis/ethermint/tests"
 	feemarkettypes "github.com/tharsis/ethermint/x/feemarket/types"
 
-	"github.com/blackfurystation/blackfury/v3/app"
-	"github.com/blackfurystation/blackfury/v3/x/claims"
-	"github.com/blackfurystation/blackfury/v3/x/claims/types"
-	inflationtypes "github.com/blackfurystation/blackfury/v3/x/inflation/types"
+	"github.com/furyanrasta/blackfury/v3/app"
+	"github.com/furyanrasta/blackfury/v3/x/claims"
+	"github.com/furyanrasta/blackfury/v3/x/claims/types"
+	inflationtypes "github.com/furyanrasta/blackfury/v3/x/inflation/types"
 )
 
 type GenesisTestSuite struct {

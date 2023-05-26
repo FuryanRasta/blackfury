@@ -4,7 +4,7 @@ import (
 	"context"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/blackfurystation/blackfury/v3/x/vrf/types"
+	"github.com/furyanrasta/blackfury/v3/x/vrf/types"
 )
 
 func (k msgServer) CreateRandom(goCtx context.Context, msg *types.MsgCreateRandom) (*types.MsgCreateRandomResponse, error) {

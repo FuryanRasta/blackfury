@@ -3,8 +3,8 @@ package recovery
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/blackfurystation/blackfury/v3/x/recovery/keeper"
-	"github.com/blackfurystation/blackfury/v3/x/recovery/types"
+	"github.com/furyanrasta/blackfury/v3/x/recovery/keeper"
+	"github.com/furyanrasta/blackfury/v3/x/recovery/types"
 )
 
 // InitGenesis import module genesis

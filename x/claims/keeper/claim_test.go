@@ -14,10 +14,10 @@ import (
 	"github.com/tharsis/ethermint/crypto/ethsecp256k1"
 	"github.com/tharsis/ethermint/tests"
 	ethermint "github.com/tharsis/ethermint/types"
-	"github.com/blackfurystation/blackfury/v3/testutil"
-	inflationtypes "github.com/blackfurystation/blackfury/v3/x/inflation/types"
+	"github.com/furyanrasta/blackfury/v3/testutil"
+	inflationtypes "github.com/furyanrasta/blackfury/v3/x/inflation/types"
 
-	"github.com/blackfurystation/blackfury/v3/x/claims/types"
+	"github.com/furyanrasta/blackfury/v3/x/claims/types"
 )
 
 func (suite *KeeperTestSuite) SetupClaimTest() {

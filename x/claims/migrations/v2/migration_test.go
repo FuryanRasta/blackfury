@@ -9,9 +9,9 @@ import (
 	paramtypes "github.com/cosmos/cosmos-sdk/x/params/types"
 	"github.com/stretchr/testify/require"
 	"github.com/tharsis/ethermint/encoding"
-	"github.com/blackfurystation/blackfury/v3/app"
-	v2 "github.com/blackfurystation/blackfury/v3/x/claims/migrations/v2"
-	claims "github.com/blackfurystation/blackfury/v3/x/claims/types"
+	"github.com/furyanrasta/blackfury/v3/app"
+	v2 "github.com/furyanrasta/blackfury/v3/x/claims/migrations/v2"
+	claims "github.com/furyanrasta/blackfury/v3/x/claims/types"
 )
 
 func TestStoreMigration(t *testing.T) {

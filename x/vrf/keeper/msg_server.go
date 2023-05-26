@@ -1,7 +1,7 @@
 package keeper
 
 import (
-	"github.com/blackfurystation/blackfury/v3/x/vrf/types"
+	"github.com/furyanrasta/blackfury/v3/x/vrf/types"
 )
 
 type msgServer struct {

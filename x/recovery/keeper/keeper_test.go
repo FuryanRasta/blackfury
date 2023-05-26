@@ -17,9 +17,9 @@ import (
 	"github.com/cosmos/cosmos-sdk/baseapp"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/blackfurystation/blackfury/v3/app"
-	claimstypes "github.com/blackfurystation/blackfury/v3/x/claims/types"
-	"github.com/blackfurystation/blackfury/v3/x/recovery/types"
+	"github.com/furyanrasta/blackfury/v3/app"
+	claimstypes "github.com/furyanrasta/blackfury/v3/x/claims/types"
+	"github.com/furyanrasta/blackfury/v3/x/recovery/types"
 )
 
 var (

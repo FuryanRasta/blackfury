@@ -3,8 +3,8 @@ package client
 import (
 	govclient "github.com/cosmos/cosmos-sdk/x/gov/client"
 
-	"github.com/blackfurystation/blackfury/v3/x/erc20/client/cli"
-	"github.com/blackfurystation/blackfury/v3/x/erc20/client/rest"
+	"github.com/furyanrasta/blackfury/v3/x/erc20/client/cli"
+	"github.com/furyanrasta/blackfury/v3/x/erc20/client/rest"
 )
 
 var (

@@ -1,6 +1,6 @@
 FROM golang:1.18.0-alpine3.15 as builder
 
-LABEL author="blackfurystation"
+LABEL author="furyanrasta"
 
 RUN apk add --update-cache \
     git \
@@ -10,7 +10,7 @@ RUN apk add --update-cache \
     make \
     wget
 
-RUN git clone https://github.com/blackfurystation/blackfury.git /blackfury && \
+RUN git clone https://github.com/furyanrasta/blackfury.git /blackfury && \
     #chmod -R 755 /blackfury && \
     chmod -R 755 /blackfury
 WORKDIR /blackfury

@@ -17,9 +17,9 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/types/module"
 
-	"github.com/blackfurystation/blackfury/v3/x/vrf/client/cli"
-	"github.com/blackfurystation/blackfury/v3/x/vrf/keeper"
-	"github.com/blackfurystation/blackfury/v3/x/vrf/types"
+	"github.com/furyanrasta/blackfury/v3/x/vrf/client/cli"
+	"github.com/furyanrasta/blackfury/v3/x/vrf/keeper"
+	"github.com/furyanrasta/blackfury/v3/x/vrf/types"
 )
 
 var (

@@ -18,9 +18,9 @@ import (
 	"github.com/spf13/cobra"
 	abci "github.com/tendermint/tendermint/abci/types"
 
-	"github.com/blackfurystation/blackfury/v3/x/erc20/client/cli"
-	"github.com/blackfurystation/blackfury/v3/x/erc20/keeper"
-	"github.com/blackfurystation/blackfury/v3/x/erc20/types"
+	"github.com/furyanrasta/blackfury/v3/x/erc20/client/cli"
+	"github.com/furyanrasta/blackfury/v3/x/erc20/keeper"
+	"github.com/furyanrasta/blackfury/v3/x/erc20/types"
 )
 
 // type check to ensure the interface is properly implemented

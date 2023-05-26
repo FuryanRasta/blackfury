@@ -5,8 +5,8 @@ import (
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/blackfurystation/blackfury/v3/x/claims/keeper"
-	"github.com/blackfurystation/blackfury/v3/x/claims/types"
+	"github.com/furyanrasta/blackfury/v3/x/claims/keeper"
+	"github.com/furyanrasta/blackfury/v3/x/claims/types"
 )
 
 // InitGenesis initializes the claim module's state from a provided genesis

@@ -16,7 +16,7 @@ import (
 	"github.com/tharsis/ethermint/encoding"
 	feemarkettypes "github.com/tharsis/ethermint/x/feemarket/types"
 
-	"github.com/blackfurystation/blackfury/v3/cmd/config"
+	"github.com/furyanrasta/blackfury/v3/cmd/config"
 )
 
 func init() {

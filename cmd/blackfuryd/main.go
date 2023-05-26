@@ -7,8 +7,8 @@ import (
 	svrcmd "github.com/cosmos/cosmos-sdk/server/cmd"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/blackfurystation/blackfury/v3/app"
-	cmdcfg "github.com/blackfurystation/blackfury/v3/cmd/config"
+	"github.com/furyanrasta/blackfury/v3/app"
+	cmdcfg "github.com/furyanrasta/blackfury/v3/cmd/config"
 )
 
 func main() {

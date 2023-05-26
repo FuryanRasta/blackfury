@@ -7,8 +7,8 @@ import (
 
 	ethermint "github.com/tharsis/ethermint/types"
 
-	incentivestypes "github.com/blackfurystation/blackfury/v3/x/incentives/types"
-	"github.com/blackfurystation/blackfury/v3/x/inflation/types"
+	incentivestypes "github.com/furyanrasta/blackfury/v3/x/incentives/types"
+	"github.com/furyanrasta/blackfury/v3/x/inflation/types"
 )
 
 // 200M token at year 4 allocated to the team

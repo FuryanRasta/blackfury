@@ -9,7 +9,7 @@ import (
 	"github.com/stretchr/testify/mock"
 	"github.com/tharsis/ethermint/crypto/ethsecp256k1"
 	"github.com/tharsis/ethermint/tests"
-	"github.com/blackfurystation/blackfury/v3/testutil"
+	"github.com/furyanrasta/blackfury/v3/testutil"
 
 	transfertypes "github.com/cosmos/ibc-go/v3/modules/apps/transfer/types"
 	clienttypes "github.com/cosmos/ibc-go/v3/modules/core/02-client/types"
@@ -17,11 +17,11 @@ import (
 	ibcgotesting "github.com/cosmos/ibc-go/v3/testing"
 	ibcmock "github.com/cosmos/ibc-go/v3/testing/mock"
 
-	claimstypes "github.com/blackfurystation/blackfury/v3/x/claims/types"
-	incentivestypes "github.com/blackfurystation/blackfury/v3/x/incentives/types"
-	"github.com/blackfurystation/blackfury/v3/x/recovery/keeper"
-	"github.com/blackfurystation/blackfury/v3/x/recovery/types"
-	vestingtypes "github.com/blackfurystation/blackfury/v3/x/vesting/types"
+	claimstypes "github.com/furyanrasta/blackfury/v3/x/claims/types"
+	incentivestypes "github.com/furyanrasta/blackfury/v3/x/incentives/types"
+	"github.com/furyanrasta/blackfury/v3/x/recovery/keeper"
+	"github.com/furyanrasta/blackfury/v3/x/recovery/types"
+	vestingtypes "github.com/furyanrasta/blackfury/v3/x/vesting/types"
 )
 
 func (suite *KeeperTestSuite) TestOnRecvPacket() {

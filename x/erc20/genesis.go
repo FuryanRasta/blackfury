@@ -4,8 +4,8 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	authkeeper "github.com/cosmos/cosmos-sdk/x/auth/keeper"
 
-	"github.com/blackfurystation/blackfury/v3/x/erc20/keeper"
-	"github.com/blackfurystation/blackfury/v3/x/erc20/types"
+	"github.com/furyanrasta/blackfury/v3/x/erc20/keeper"
+	"github.com/furyanrasta/blackfury/v3/x/erc20/types"
 )
 
 // InitGenesis import module genesis

@@ -7,9 +7,9 @@ import (
 	channeltypes "github.com/cosmos/ibc-go/v3/modules/core/04-channel/types"
 	"github.com/cosmos/ibc-go/v3/modules/core/exported"
 
-	"github.com/blackfurystation/blackfury/v3/ibc"
-	blackfury "github.com/blackfurystation/blackfury/v3/types"
-	"github.com/blackfurystation/blackfury/v3/x/claims/types"
+	"github.com/furyanrasta/blackfury/v3/ibc"
+	blackfury "github.com/furyanrasta/blackfury/v3/types"
+	"github.com/furyanrasta/blackfury/v3/x/claims/types"
 )
 
 // OnAcknowledgementPacket performs an IBC send callback. Once a user submits an

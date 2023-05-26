@@ -9,10 +9,10 @@ import (
 	distrtypes "github.com/cosmos/cosmos-sdk/x/distribution/types"
 	"github.com/tharsis/ethermint/tests"
 
-	"github.com/blackfurystation/blackfury/v3/testutil"
-	"github.com/blackfurystation/blackfury/v3/x/claims/types"
-	inflationtypes "github.com/blackfurystation/blackfury/v3/x/inflation/types"
-	vestingtypes "github.com/blackfurystation/blackfury/v3/x/vesting/types"
+	"github.com/furyanrasta/blackfury/v3/testutil"
+	"github.com/furyanrasta/blackfury/v3/x/claims/types"
+	inflationtypes "github.com/furyanrasta/blackfury/v3/x/inflation/types"
+	vestingtypes "github.com/furyanrasta/blackfury/v3/x/vesting/types"
 )
 
 func (suite *KeeperTestSuite) TestEndBlock() {

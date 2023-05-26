@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	epochstypes "github.com/blackfurystation/blackfury/v3/x/epochs/types"
-	"github.com/blackfurystation/blackfury/v3/x/inflation/types"
+	epochstypes "github.com/furyanrasta/blackfury/v3/x/epochs/types"
+	"github.com/furyanrasta/blackfury/v3/x/inflation/types"
 )
 
 // BeforeEpochStart: noop, We don't need to do anything here

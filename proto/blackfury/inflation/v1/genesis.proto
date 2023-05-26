@@ -5,7 +5,7 @@ import "gogoproto/gogo.proto";
 
 import "blackfury/inflation/v1/inflation.proto";
 
-option go_package = "github.com/blackfurystation/blackfury/v3/x/inflation/types";
+option go_package = "github.com/furyanrasta/blackfury/v3/x/inflation/types";
 
 // GenesisState defines the inflation module's genesis state.
 message GenesisState {

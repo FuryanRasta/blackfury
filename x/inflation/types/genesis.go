@@ -3,7 +3,7 @@ package types
 import (
 	fmt "fmt"
 
-	epochtypes "github.com/blackfurystation/blackfury/v3/x/epochs/types"
+	epochtypes "github.com/furyanrasta/blackfury/v3/x/epochs/types"
 )
 
 // NewGenesisState creates a new GenesisState object

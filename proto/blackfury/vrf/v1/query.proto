@@ -8,7 +8,7 @@ import "blackfury/vrf/v1/userval.proto";
 // this line is used by starport scaffolding # 1
 import "gogoproto/gogo.proto";
 
-option go_package = "github.com/blackfurystation/blackfury/v3/x/vrf/types";
+option go_package = "github.com/furyanrasta/blackfury/v3/x/vrf/types";
 
 // Query defines the gRPC querier service.
 service Query {

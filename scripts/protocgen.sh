@@ -41,7 +41,7 @@ for dir in $proto_dirs; do
 done
 
 # move resulting files to the right places
-cp -r github.com/blackfurystation/blackfury/v*/x/* x/
+cp -r github.com/furyanrasta/blackfury/v*/x/* x/
 rm -rf github.com
 
 # combine swagger files

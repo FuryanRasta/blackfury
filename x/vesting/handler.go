@@ -4,7 +4,7 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
 
-	"github.com/blackfurystation/blackfury/v3/x/vesting/types"
+	"github.com/furyanrasta/blackfury/v3/x/vesting/types"
 )
 
 // NewHandler defines the vesting module handler instance

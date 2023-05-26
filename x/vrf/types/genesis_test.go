@@ -3,7 +3,7 @@ package types_test
 import (
 	"testing"
 
-	"github.com/blackfurystation/blackfury/v3/x/vrf/types"
+	"github.com/furyanrasta/blackfury/v3/x/vrf/types"
 	"github.com/stretchr/testify/require"
 )
 

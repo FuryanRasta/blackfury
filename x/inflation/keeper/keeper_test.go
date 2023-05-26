@@ -19,8 +19,8 @@ import (
 
 	evm "github.com/tharsis/ethermint/x/evm/types"
 
-	"github.com/blackfurystation/blackfury/v3/app"
-	"github.com/blackfurystation/blackfury/v3/x/inflation/types"
+	"github.com/furyanrasta/blackfury/v3/app"
+	"github.com/furyanrasta/blackfury/v3/x/inflation/types"
 )
 
 var denomMint = types.DefaultInflationDenom

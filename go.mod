@@ -1,4 +1,4 @@
-module github.com/blackfurystation/blackfury/v3
+module github.com/furyanrasta/blackfury/v3
 
 go 1.18
 

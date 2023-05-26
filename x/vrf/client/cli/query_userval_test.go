@@ -12,9 +12,9 @@ import (
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 
-	"github.com/blackfurystation/blackfury/v3/testutil/network"
-	"github.com/blackfurystation/blackfury/v3/x/vrf/client/cli"
-	"github.com/blackfurystation/blackfury/v3/x/vrf/types"
+	"github.com/furyanrasta/blackfury/v3/testutil/network"
+	"github.com/furyanrasta/blackfury/v3/x/vrf/client/cli"
+	"github.com/furyanrasta/blackfury/v3/x/vrf/types"
 )
 
 // Prevent strconv unused error

@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blackfurystation/blackfury.git"
+    "url": "git+https://github.com/furyanrasta/blackfury.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/blackfurystation/blackfury/issues"
+    "url": "https://github.com/furyanrasta/blackfury/issues"
   },
-  "homepage": "https://github.com/blackfurystation/blackfury#readme"
+  "homepage": "https://github.com/furyanrasta/blackfury#readme"
 }
