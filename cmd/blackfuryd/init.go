@@ -26,8 +26,8 @@ import (
 	"github.com/cosmos/cosmos-sdk/server"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/types/module"
-	"github.com/cosmos/cosmos-sdk/x/genutil"
-	genutilcli "github.com/cosmos/cosmos-sdk/x/genutil/client/cli"
+	"cosmossdk.io/x/genutil"
+	genutilcli "cosmossdk.io/x/genutil/client/cli"
 )
 
 type printInfo struct {

@@ -3,7 +3,7 @@ package erc20
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
-	govtypes "github.com/cosmos/cosmos-sdk/x/gov/types"
+	govtypes "cosmossdk.io/x/gov/types"
 	"github.com/ethereum/go-ethereum/common"
 
 	"github.com/furyanrasta/blackfury/v3/x/erc20/keeper"

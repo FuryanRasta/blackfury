@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 
 	"github.com/cosmos/cosmos-sdk/codec"
-	banktypes "github.com/cosmos/cosmos-sdk/x/bank/types"
+	banktypes "cosmossdk.io/x/bank/types"
 )
 
 // ParseRegisterCoinProposal reads and parses a ParseRegisterCoinProposal from a file.

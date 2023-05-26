@@ -6,7 +6,7 @@ import (
 	"time"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	paramtypes "github.com/cosmos/cosmos-sdk/x/params/types"
+	paramtypes "cosmossdk.io/x/params/types"
 
 	epochtypes "github.com/furyanrasta/blackfury/v3/x/epochs/types"
 )

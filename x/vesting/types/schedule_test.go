@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	sdkvesting "github.com/cosmos/cosmos-sdk/x/auth/vesting/types"
+	sdkvesting "cosmossdk.io/x/auth/vesting/types"
 	"github.com/stretchr/testify/suite"
 )
 

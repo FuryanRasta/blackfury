@@ -3,7 +3,7 @@ package ante
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
-	authante "github.com/cosmos/cosmos-sdk/x/auth/ante"
+	authante "cosmossdk.io/x/auth/ante"
 
 	ethante "github.com/tharsis/ethermint/app/ante"
 )

@@ -2,7 +2,7 @@ package v2
 
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	paramtypes "github.com/cosmos/cosmos-sdk/x/params/types"
+	paramtypes "cosmossdk.io/x/params/types"
 
 	"github.com/furyanrasta/blackfury/v3/x/erc20/types"
 )

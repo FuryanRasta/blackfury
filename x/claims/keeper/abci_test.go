@@ -5,8 +5,8 @@ import (
 	"time"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	authtypes "github.com/cosmos/cosmos-sdk/x/auth/types"
-	distrtypes "github.com/cosmos/cosmos-sdk/x/distribution/types"
+	authtypes "cosmossdk.io/x/auth/types"
+	distrtypes "cosmossdk.io/x/distribution/types"
 	"github.com/tharsis/ethermint/tests"
 
 	"github.com/furyanrasta/blackfury/v3/testutil"

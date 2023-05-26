@@ -5,9 +5,9 @@ import (
 	codectypes "github.com/cosmos/cosmos-sdk/codec/types"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/types/msgservice"
-	authtypes "github.com/cosmos/cosmos-sdk/x/auth/types"
-	"github.com/cosmos/cosmos-sdk/x/auth/vesting/exported"
-	sdkvesting "github.com/cosmos/cosmos-sdk/x/auth/vesting/types"
+	authtypes "cosmossdk.io/x/auth/types"
+	"cosmossdk.io/x/auth/vesting/exported"
+	sdkvesting "cosmossdk.io/x/auth/vesting/types"
 )
 
 // ModuleCdc references the global erc20 module codec. Note, the codec should

@@ -6,8 +6,8 @@ import (
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	authtypes "github.com/cosmos/cosmos-sdk/x/auth/types"
-	sdkvesting "github.com/cosmos/cosmos-sdk/x/auth/vesting/types"
+	authtypes "cosmossdk.io/x/auth/types"
+	sdkvesting "cosmossdk.io/x/auth/vesting/types"
 
 	"github.com/tharsis/ethermint/tests"
 	"github.com/furyanrasta/blackfury/v3/testutil"

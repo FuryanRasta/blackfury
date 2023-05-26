@@ -3,7 +3,7 @@ package v2
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/types/module"
-	upgradetypes "github.com/cosmos/cosmos-sdk/x/upgrade/types"
+	upgradetypes "cosmossdk.io/x/upgrade/types"
 
 	vrftypes "github.com/furyanrasta/blackfury/v3/x/vrf/types"
 	// erc20types "github.com/furyanrasta/blackfury/v3/x/erc20/types"

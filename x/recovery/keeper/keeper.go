@@ -6,8 +6,8 @@ import (
 	"github.com/tendermint/tendermint/libs/log"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	capabilitytypes "github.com/cosmos/cosmos-sdk/x/capability/types"
-	paramtypes "github.com/cosmos/cosmos-sdk/x/params/types"
+	capabilitytypes "cosmossdk.io/x/capability/types"
+	paramtypes "cosmossdk.io/x/params/types"
 
 	transfertypes "github.com/cosmos/ibc-go/v3/modules/apps/transfer/types"
 	porttypes "github.com/cosmos/ibc-go/v3/modules/core/05-port/types"

@@ -4,8 +4,8 @@ import (
 	"time"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	authtypes "github.com/cosmos/cosmos-sdk/x/auth/types"
-	stakingtypes "github.com/cosmos/cosmos-sdk/x/staking/types"
+	authtypes "cosmossdk.io/x/auth/types"
+	stakingtypes "cosmossdk.io/x/staking/types"
 )
 
 // AccountKeeper defines the expected interface contract the vesting module

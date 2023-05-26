@@ -2,7 +2,7 @@ package types
 
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	sdkvesting "github.com/cosmos/cosmos-sdk/x/auth/vesting/types"
+	sdkvesting "cosmossdk.io/x/auth/vesting/types"
 )
 
 // A "schedule" is an increasing step function of Coins over time. It's

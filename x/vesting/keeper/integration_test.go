@@ -17,9 +17,9 @@ import (
 	ethtypes "github.com/ethereum/go-ethereum/core/types"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	authtypes "github.com/cosmos/cosmos-sdk/x/auth/types"
-	sdkvesting "github.com/cosmos/cosmos-sdk/x/auth/vesting/types"
-	stakingtypes "github.com/cosmos/cosmos-sdk/x/staking/types"
+	authtypes "cosmossdk.io/x/auth/types"
+	sdkvesting "cosmossdk.io/x/auth/vesting/types"
+	stakingtypes "cosmossdk.io/x/staking/types"
 	evmtypes "github.com/tharsis/ethermint/x/evm/types"
 
 	"github.com/furyanrasta/blackfury/v3/x/vesting/types"

@@ -2,7 +2,7 @@ package incentives
 
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	authkeeper "github.com/cosmos/cosmos-sdk/x/auth/keeper"
+	authkeeper "cosmossdk.io/x/auth/keeper"
 
 	"github.com/furyanrasta/blackfury/v3/x/incentives/keeper"
 	"github.com/furyanrasta/blackfury/v3/x/incentives/types"

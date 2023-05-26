@@ -1,7 +1,7 @@
 package types
 
 import (
-	authtypes "github.com/cosmos/cosmos-sdk/x/auth/types"
+	authtypes "cosmossdk.io/x/auth/types"
 	"github.com/ethereum/go-ethereum/common"
 )
 

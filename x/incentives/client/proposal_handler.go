@@ -1,7 +1,7 @@
 package client
 
 import (
-	govclient "github.com/cosmos/cosmos-sdk/x/gov/client"
+	govclient "cosmossdk.io/x/gov/client"
 
 	"github.com/furyanrasta/blackfury/v3/x/incentives/client/cli"
 	"github.com/furyanrasta/blackfury/v3/x/incentives/client/rest"

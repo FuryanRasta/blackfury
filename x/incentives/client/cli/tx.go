@@ -11,8 +11,8 @@ import (
 	"github.com/cosmos/cosmos-sdk/client/tx"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/version"
-	"github.com/cosmos/cosmos-sdk/x/gov/client/cli"
-	govtypes "github.com/cosmos/cosmos-sdk/x/gov/types"
+	"cosmossdk.io/x/gov/client/cli"
+	govtypes "cosmossdk.io/x/gov/types"
 
 	"github.com/furyanrasta/blackfury/v3/x/incentives/types"
 )

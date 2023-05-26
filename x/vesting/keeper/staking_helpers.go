@@ -4,7 +4,7 @@ import (
 	"math"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/staking/types"
+	"cosmossdk.io/x/staking/types"
 )
 
 // TODO replace methods once available in the sdk `x/stake` module

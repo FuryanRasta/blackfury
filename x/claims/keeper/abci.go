@@ -5,7 +5,7 @@ import (
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
-	vestexported "github.com/cosmos/cosmos-sdk/x/auth/vesting/exported"
+	vestexported "cosmossdk.io/x/auth/vesting/exported"
 
 	"github.com/furyanrasta/blackfury/v3/x/claims/types"
 )

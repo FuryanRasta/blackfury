@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	govtypes "github.com/cosmos/cosmos-sdk/x/gov/types"
-	paramtypes "github.com/cosmos/cosmos-sdk/x/params/types"
+	govtypes "cosmossdk.io/x/gov/types"
+	paramtypes "cosmossdk.io/x/params/types"
 	"github.com/stretchr/testify/suite"
 )
 

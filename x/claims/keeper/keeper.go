@@ -7,8 +7,8 @@ import (
 
 	"github.com/cosmos/cosmos-sdk/codec"
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	authtypes "github.com/cosmos/cosmos-sdk/x/auth/types"
-	paramtypes "github.com/cosmos/cosmos-sdk/x/params/types"
+	authtypes "cosmossdk.io/x/auth/types"
+	paramtypes "cosmossdk.io/x/params/types"
 	porttypes "github.com/cosmos/ibc-go/v3/modules/core/05-port/types"
 
 	"github.com/furyanrasta/blackfury/v3/x/claims/types"

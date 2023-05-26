@@ -14,9 +14,9 @@ import (
 	codectypes "github.com/cosmos/cosmos-sdk/codec/types"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/types/module"
-	authkeeper "github.com/cosmos/cosmos-sdk/x/auth/keeper"
-	bankkeeper "github.com/cosmos/cosmos-sdk/x/bank/keeper"
-	stakingkeeper "github.com/cosmos/cosmos-sdk/x/staking/keeper"
+	authkeeper "cosmossdk.io/x/auth/keeper"
+	bankkeeper "cosmossdk.io/x/bank/keeper"
+	stakingkeeper "cosmossdk.io/x/staking/keeper"
 
 	"github.com/furyanrasta/blackfury/v3/x/vesting/client/cli"
 	"github.com/furyanrasta/blackfury/v3/x/vesting/keeper"

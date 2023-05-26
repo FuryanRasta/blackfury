@@ -2,7 +2,7 @@ package erc20
 
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	authkeeper "github.com/cosmos/cosmos-sdk/x/auth/keeper"
+	authkeeper "cosmossdk.io/x/auth/keeper"
 
 	"github.com/furyanrasta/blackfury/v3/x/erc20/keeper"
 	"github.com/furyanrasta/blackfury/v3/x/erc20/types"

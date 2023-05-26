@@ -7,9 +7,9 @@ import (
 	"github.com/cosmos/cosmos-sdk/client/tx"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/types/rest"
-	banktypes "github.com/cosmos/cosmos-sdk/x/bank/types"
-	govrest "github.com/cosmos/cosmos-sdk/x/gov/client/rest"
-	govtypes "github.com/cosmos/cosmos-sdk/x/gov/types"
+	banktypes "cosmossdk.io/x/bank/types"
+	govrest "cosmossdk.io/x/gov/client/rest"
+	govtypes "cosmossdk.io/x/gov/types"
 
 	"github.com/furyanrasta/blackfury/v3/x/erc20/types"
 )

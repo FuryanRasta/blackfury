@@ -6,7 +6,7 @@ import (
 
 	"github.com/cosmos/cosmos-sdk/testutil"
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	paramtypes "github.com/cosmos/cosmos-sdk/x/params/types"
+	paramtypes "cosmossdk.io/x/params/types"
 	"github.com/stretchr/testify/require"
 	"github.com/tharsis/ethermint/encoding"
 	"github.com/furyanrasta/blackfury/v3/app"

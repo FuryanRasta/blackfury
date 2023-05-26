@@ -17,7 +17,7 @@ import (
 
 	ibctesting "github.com/furyanrasta/blackfury/v3/ibc/testing"
 
-	minttypes "github.com/cosmos/cosmos-sdk/x/mint/types"
+	minttypes "cosmossdk.io/x/mint/types"
 	"github.com/furyanrasta/blackfury/v3/app"
 	claimtypes "github.com/furyanrasta/blackfury/v3/x/claims/types"
 	inflationtypes "github.com/furyanrasta/blackfury/v3/x/inflation/types"

@@ -6,7 +6,7 @@ import (
 
 	"github.com/cosmos/cosmos-sdk/client/flags"
 	svrcmd "github.com/cosmos/cosmos-sdk/server/cmd"
-	"github.com/cosmos/cosmos-sdk/x/genutil/client/cli"
+	"cosmossdk.io/x/genutil/client/cli"
 	"github.com/stretchr/testify/require"
 
 	"github.com/furyanrasta/blackfury/v3/app"

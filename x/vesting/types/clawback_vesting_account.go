@@ -5,9 +5,9 @@ import (
 	"time"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	authtypes "github.com/cosmos/cosmos-sdk/x/auth/types"
-	vestexported "github.com/cosmos/cosmos-sdk/x/auth/vesting/exported"
-	sdkvesting "github.com/cosmos/cosmos-sdk/x/auth/vesting/types"
+	authtypes "cosmossdk.io/x/auth/types"
+	vestexported "cosmossdk.io/x/auth/vesting/exported"
+	sdkvesting "cosmossdk.io/x/auth/vesting/types"
 )
 
 var (

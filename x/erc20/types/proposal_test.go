@@ -8,8 +8,8 @@ import (
 
 	"github.com/tharsis/ethermint/tests"
 
-	banktypes "github.com/cosmos/cosmos-sdk/x/bank/types"
-	length "github.com/cosmos/cosmos-sdk/x/gov/types"
+	banktypes "cosmossdk.io/x/bank/types"
+	length "cosmossdk.io/x/gov/types"
 	"github.com/ethereum/go-ethereum/common"
 )
 
