@@ -17,7 +17,7 @@ RPC_PORT="854"
 IP_ADDR="0.0.0.0"
 
 KEY="mykey"
-CHAINID="blackfury_3000-3"
+CHAINID="highbury_710-1"
 MONIKER="mymoniker"
 
 ## default port prefixes for blackfuryd

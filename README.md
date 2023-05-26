@@ -56,13 +56,13 @@ make install
 Or check out the latest [release](https://github.com/furyanrasta/blackfury/releases).
 
 ## Genesis
-To get onto our mainnet (blackfury_3000-3) genesis download the genesis.json here
+To get onto our mainnet (highbury_710-1) genesis download the genesis.json here
 
 `wget https://gist.githubusercontent.com/furyanrasta/ee862f58850fc1b5ee6a6fdccc3130d2/raw/55c2c4ea2fee8a9391d0dc55b2c272adb804054a/genesis.json`
 
 and then move it into the blackfuryd config (after you have initilized your node)
 
-`blackfuryd init <nodename> --chain-id blackfury_3000-3`
+`blackfuryd init <nodename> --chain-id highbury_710-1`
 
 `mv genesis.json ~/.blackfuryd/config/`
 

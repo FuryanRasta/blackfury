@@ -1,5 +1,5 @@
 KEY="yourkey"
-CHAINID="blackfury_3000-4"
+CHAINID="highbury_710-4"
 MONIKER="Yournodename"
 KEYRING="file"
 KEYPASSWD="password"
